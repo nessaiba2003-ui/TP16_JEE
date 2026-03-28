@@ -16,7 +16,7 @@ public class MonitoringController {
         // Incrémenter le compteur personnalisé à chaque appel
         Metrics.counter("custom.requests.count").increment();
 
-        logger.info("Requête est enregistrée dans Prometheus");
-        return "enfin le traitement est terminé";
+        logger.info("Requête enregistrée dans Prometheus");
+        return "Traitement terminé";
     }
 }

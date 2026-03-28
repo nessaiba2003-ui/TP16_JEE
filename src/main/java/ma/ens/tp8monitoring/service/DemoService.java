@@ -13,9 +13,9 @@ public class DemoService {
         try {
             Thread.sleep(500); // Simulation d’un traitement
         } catch (InterruptedException e) {
-            logger.error("il y a une erreur dans le traitement", e);
+            logger.error("il y a Erreur dans le traitement", e);
         }
-        logger.info(" le traitement est terminé avec succès");
+        logger.info("Traitement est terminé avec succès");
         return "Traitement est effectué";
     }
 }
