@@ -26,3 +26,12 @@ Importez un Dashboard Spring Boot (ex: ID 4701 ou 11378).
 <img width="1919" height="956" alt="Screenshot 2026-03-29 002056" src="https://github.com/user-attachments/assets/e034b499-66e8-44db-965b-e9df435b73ba" />
 <img width="1895" height="561" alt="Screenshot 2026-03-29 002420" src="https://github.com/user-attachments/assets/788b3c87-178f-4732-93cb-d26401a358c4" />
 <img width="1919" height="565" alt="Screenshot 2026-03-29 002727" src="https://github.com/user-attachments/assets/85458cb4-4a8e-4383-85f3-a0a94e37545e" />
+<img width="1919" height="948" alt="Screenshot 2026-03-29 171902" src="https://github.com/user-attachments/assets/a6ebe32a-0c87-411f-a200-6d4edf00d68c" />
+<img width="1918" height="935" alt="Screenshot 2026-03-29 172020" src="https://github.com/user-attachments/assets/401d08fa-c5db-4569-8ec6-5d9361867ff4" />
+<img width="1919" height="945" alt="Screenshot 2026-03-29 172108" src="https://github.com/user-attachments/assets/81c33937-b152-4293-b405-85bde0337eab" />
+<img width="1916" height="865" alt="Screenshot 2026-03-29 172208" src="https://github.com/user-attachments/assets/7625e48b-4465-4600-91e7-092ddde7c072" />
+<img width="1919" height="943" alt="Screenshot 2026-03-29 172259" src="https://github.com/user-attachments/assets/a782ced8-e5fe-42cc-96c6-44563b915716" />
+<img width="1919" height="954" alt="Screenshot 2026-03-29 173037" src="https://github.com/user-attachments/assets/ff9eba82-f705-457a-b069-4e5dfb51a938" />
+<img width="1919" height="716" alt="Screenshot 2026-03-29 173243" src="https://github.com/user-attachments/assets/dedd3521-7f95-483f-9539-6317067831b8" />
+<img width="1919" height="866" alt="Screenshot 2026-03-29 173317" src="https://github.com/user-attachments/assets/c9c15b0b-8fb3-44ca-a917-0c11e1cab7cf" />
+<img width="1919" height="850" alt="Screenshot 2026-03-29 173458" src="https://github.com/user-attachments/assets/9998f085-884f-4ec4-bcb6-8547da0c4a2f" />
