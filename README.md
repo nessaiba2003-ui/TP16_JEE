@@ -35,3 +35,7 @@ Importez un Dashboard Spring Boot (ex: ID 4701 ou 11378).
 <img width="1919" height="716" alt="Screenshot 2026-03-29 173243" src="https://github.com/user-attachments/assets/dedd3521-7f95-483f-9539-6317067831b8" />
 <img width="1919" height="866" alt="Screenshot 2026-03-29 173317" src="https://github.com/user-attachments/assets/c9c15b0b-8fb3-44ca-a917-0c11e1cab7cf" />
 <img width="1919" height="850" alt="Screenshot 2026-03-29 173458" src="https://github.com/user-attachments/assets/9998f085-884f-4ec4-bcb6-8547da0c4a2f" />
+![WhatsApp Image 2026-03-30 at 08 57 10](https://github.com/user-attachments/assets/01b5c233-f412-44a3-95d7-47da5d4f014f)
+![WhatsApp Image 2026-03-30 at 08 57 28](https://github.com/user-attachments/assets/c85c6905-0d8b-4c2c-a306-db3b990ab7c0)
+![WhatsApp Image 2026-03-30 at 08 57 48](https://github.com/user-attachments/assets/d9c141a0-c881-4b55-bf1e-75ac2cf39483)
+![WhatsApp Image 2026-03-30 at 08 58 00](https://github.com/user-attachments/assets/1fa65989-27e0-4539-b150-1c43cb91d81c)
